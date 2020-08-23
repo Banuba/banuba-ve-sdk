@@ -1,2 +1,2 @@
-# ve-sdk-talala
-Repository for storing ve-sdk packages for Talala
+# banuba-ve-sdk
+Repository for storing ve-sdk packages
